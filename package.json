@@ -1,0 +1,10 @@
+{
+  "name": "tfcollision",
+  "version": "0.0.1",
+  "description": "A collision detection library for 2D and 3D.",
+  "author": "Thomas Baron <thomas.baron@twofront.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  }
+}
